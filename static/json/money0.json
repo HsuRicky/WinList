@@ -1,0 +1,3008 @@
+{
+    "code": "common.success",
+    "data": [
+        {
+            "id": 1277821223,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "40350.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277120331,
+            "username": "a*a***",
+            "gameType": "12259",
+            "highScore": "36540.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127047,
+            "username": "a*a***",
+            "gameType": "12259",
+            "highScore": "31950.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277818560,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "31600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277428420,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "30220.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277047059,
+            "username": "p*r***",
+            "gameType": "32449",
+            "highScore": "29910.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32449_3?version=0"
+        },
+        {
+            "id": 1277199283,
+            "username": "b*r*e****",
+            "gameType": "12259",
+            "highScore": "27890.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277022132,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "24312.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277806015,
+            "username": "a*z****",
+            "gameType": "32578",
+            "highScore": "24000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32578_3?version=0"
+        },
+        {
+            "id": 1277828350,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "22725.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277536119,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "22655.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277811485,
+            "username": "j*a****",
+            "gameType": "12259",
+            "highScore": "22315.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277467990,
+            "username": "3*2*a*n***",
+            "gameType": "33437",
+            "highScore": "21840.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.33437_3?version=0"
+        },
+        {
+            "id": 1277214061,
+            "username": "m*r***",
+            "gameType": "30144",
+            "highScore": "20000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277032145,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "20000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277127043,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "19090.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277127051,
+            "username": "a*a***",
+            "gameType": "12259",
+            "highScore": "18800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277296598,
+            "username": "j*k*y****",
+            "gameType": "12259",
+            "highScore": "18028.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277781322,
+            "username": "a*z****",
+            "gameType": "12327",
+            "highScore": "16900.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12327_3?version=0"
+        },
+        {
+            "id": 1277550623,
+            "username": "b*n*o*g****",
+            "gameType": "12125",
+            "highScore": "15750.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.12125_3?version=0"
+        },
+        {
+            "id": 1277498973,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "15690.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277666144,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "15525.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277646746,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "15395.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277818558,
+            "username": "3*2*a*n***",
+            "gameType": "33437",
+            "highScore": "14490.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.33437_3?version=0"
+        },
+        {
+            "id": 1277075823,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "14365.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277781320,
+            "username": "n*n****",
+            "gameType": "12259",
+            "highScore": "13588.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277666142,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "13500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277829238,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "12950.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277829234,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "12250.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277637285,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "12145.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277271563,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "12000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277321381,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "12000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277611065,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "12000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277185834,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "11984.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277616393,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "11955.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277273851,
+            "username": "a*e***",
+            "gameType": "33431",
+            "highScore": "11650.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.33431_3?version=0"
+        },
+        {
+            "id": 1277545773,
+            "username": "b*n*o*g****",
+            "gameType": "12125",
+            "highScore": "11250.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.12125_3?version=0"
+        },
+        {
+            "id": 1277400499,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "11000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277494385,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "10930.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277422236,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "10920.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277637278,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "10400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277108348,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "10000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277032140,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "10000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032153,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "10000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277150151,
+            "username": "m*r*i*e*o*1***",
+            "gameType": "30720",
+            "highScore": "9960.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277424784,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "9620.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277806010,
+            "username": "e*y*0****",
+            "gameType": "30815",
+            "highScore": "9600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277546163,
+            "username": "1*3*5***",
+            "gameType": "12259",
+            "highScore": "9330.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277657252,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "9285.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277464244,
+            "username": "h*r***",
+            "gameType": "30640",
+            "highScore": "9240.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30640_3?version=0"
+        },
+        {
+            "id": 1277550624,
+            "username": "b*n*o*g****",
+            "gameType": "12125",
+            "highScore": "9000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.12125_3?version=0"
+        },
+        {
+            "id": 1277596064,
+            "username": "0*2****",
+            "gameType": "12259",
+            "highScore": "8848.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277806017,
+            "username": "r*d***",
+            "gameType": "12259",
+            "highScore": "8700.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277489579,
+            "username": "0*2*1***",
+            "gameType": "12259",
+            "highScore": "8600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277765056,
+            "username": "z*a*h****",
+            "gameType": "12259",
+            "highScore": "8540.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277233009,
+            "username": "m*j*y*e****",
+            "gameType": "5358",
+            "highScore": "8500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5358_3?version=0"
+        },
+        {
+            "id": 1277259397,
+            "username": "p*s*w*y*i*z*2***",
+            "gameType": "12259",
+            "highScore": "8315.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277338093,
+            "username": "e*a*h****",
+            "gameType": "30815",
+            "highScore": "8250.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277301672,
+            "username": "d*d****",
+            "gameType": "32449",
+            "highScore": "8175.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32449_3?version=0"
+        },
+        {
+            "id": 1277541029,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "8150.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277657253,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "8100.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277424786,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "8060.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277199284,
+            "username": "t*t***",
+            "gameType": "30815",
+            "highScore": "8000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277291388,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "8000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277503121,
+            "username": "w*n*y*i*l****",
+            "gameType": "10457",
+            "highScore": "8000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277032132,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "8000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032127,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "8000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277124797,
+            "username": "z*n*i***",
+            "gameType": "3933",
+            "highScore": "7992.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.3933_3?version=0"
+        },
+        {
+            "id": 1277047062,
+            "username": "m*7***",
+            "gameType": "30720",
+            "highScore": "7950.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277262450,
+            "username": "j*k*y****",
+            "gameType": "12259",
+            "highScore": "7940.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277114800,
+            "username": "c*m*r*a***",
+            "gameType": "31979",
+            "highScore": "7860.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31979_3?version=0"
+        },
+        {
+            "id": 1277731336,
+            "username": "a*z****",
+            "gameType": "30720",
+            "highScore": "7770.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277111703,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "7690.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277829235,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "7625.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277536122,
+            "username": "c*m*r*a***",
+            "gameType": "30625",
+            "highScore": "7600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30625_3?version=0"
+        },
+        {
+            "id": 1277424785,
+            "username": "c*r*s*i*n****",
+            "gameType": "12259",
+            "highScore": "7546.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127050,
+            "username": "t*t***",
+            "gameType": "30815",
+            "highScore": "7500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277120335,
+            "username": "p*n*a****",
+            "gameType": "30417",
+            "highScore": "7475.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277068773,
+            "username": "d*n*s****",
+            "gameType": "12259",
+            "highScore": "7394.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277022128,
+            "username": "m*r*y*k***",
+            "gameType": "3933",
+            "highScore": "7330.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.3933_3?version=0"
+        },
+        {
+            "id": 1277447582,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "7312.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127054,
+            "username": "r*n*a*g*a*a*a***",
+            "gameType": "12259",
+            "highScore": "7251.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277047060,
+            "username": "s*m*l*j*y*2*4***",
+            "gameType": "12259",
+            "highScore": "7220.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277120334,
+            "username": "k*a*g***",
+            "gameType": "30720",
+            "highScore": "7210.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277040117,
+            "username": "r****",
+            "gameType": "31418",
+            "highScore": "7210.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31418_3?version=0"
+        },
+        {
+            "id": 1277083535,
+            "username": "f*b*m***",
+            "gameType": "32842",
+            "highScore": "7200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277666143,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "7200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277806014,
+            "username": "a*z****",
+            "gameType": "32578",
+            "highScore": "7200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32578_3?version=0"
+        },
+        {
+            "id": 1277114802,
+            "username": "a*a***",
+            "gameType": "12259",
+            "highScore": "7200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277210280,
+            "username": "0*2****",
+            "gameType": "12259",
+            "highScore": "7170.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277134007,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "7170.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277737518,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "7104.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277806009,
+            "username": "r*d***",
+            "gameType": "12259",
+            "highScore": "7000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277720528,
+            "username": "b*b*c*k****",
+            "gameType": "31253",
+            "highScore": "6990.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31253_3?version=0"
+        },
+        {
+            "id": 1277507883,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "6980.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277435799,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "6952.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277389907,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "6800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277550622,
+            "username": "b*n*o*g****",
+            "gameType": "12125",
+            "highScore": "6750.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.12125_3?version=0"
+        },
+        {
+            "id": 1277772037,
+            "username": "e*p*e*s*a*m*2***",
+            "gameType": "12259",
+            "highScore": "6740.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277089506,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "6620.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277301671,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "6500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277591254,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "6430.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277789615,
+            "username": "s*m*y****",
+            "gameType": "12259",
+            "highScore": "6410.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277293914,
+            "username": "m*r*e*c***",
+            "gameType": "30815",
+            "highScore": "6400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277214458,
+            "username": "m*r***",
+            "gameType": "32842",
+            "highScore": "6400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277032134,
+            "username": "a*d*l*c*u***",
+            "gameType": "30815",
+            "highScore": "6400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277571964,
+            "username": "m*k*a***",
+            "gameType": "12259",
+            "highScore": "6396.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277711634,
+            "username": "b*n*l****",
+            "gameType": "12259",
+            "highScore": "6386.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277096113,
+            "username": "j*s*s***",
+            "gameType": "30417",
+            "highScore": "6377.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277313096,
+            "username": "r*k*e*2***",
+            "gameType": "12259",
+            "highScore": "6360.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040112,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "6350.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277389906,
+            "username": "h*i*n****",
+            "gameType": "12259",
+            "highScore": "6210.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277765058,
+            "username": "e*p*e*s*a*m*2***",
+            "gameType": "12259",
+            "highScore": "6040.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277374311,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "6020.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277472013,
+            "username": "b*t****",
+            "gameType": "30815",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277243249,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277210282,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277265398,
+            "username": "v*l****",
+            "gameType": "30815",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277621729,
+            "username": "g*n*a*a***",
+            "gameType": "32842",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277637279,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "6000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277089507,
+            "username": "j*n*u*1***",
+            "gameType": "12259",
+            "highScore": "5950.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277821221,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "5925.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277214060,
+            "username": "m*j*y*e****",
+            "gameType": "5358",
+            "highScore": "5855.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5358_3?version=0"
+        },
+        {
+            "id": 1277155907,
+            "username": "m*s*e*p*g****",
+            "gameType": "12259",
+            "highScore": "5847.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277283097,
+            "username": "t*y*n*9*7***",
+            "gameType": "30720",
+            "highScore": "5760.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277765057,
+            "username": "z*a*h****",
+            "gameType": "12259",
+            "highScore": "5740.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277439841,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "5716.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127046,
+            "username": "k*a*g***",
+            "gameType": "30720",
+            "highScore": "5700.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277060737,
+            "username": "c*m*r*a***",
+            "gameType": "30625",
+            "highScore": "5650.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30625_3?version=0"
+        },
+        {
+            "id": 1277040113,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "5640.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277246491,
+            "username": "1*3****",
+            "gameType": "30144",
+            "highScore": "5510.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277083537,
+            "username": "1*3****",
+            "gameType": "30144",
+            "highScore": "5510.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277581228,
+            "username": "b*b*r***",
+            "gameType": "30144",
+            "highScore": "5510.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277068771,
+            "username": "j*n*i****",
+            "gameType": "30417",
+            "highScore": "5505.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277480709,
+            "username": "e*w****",
+            "gameType": "30144",
+            "highScore": "5500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277256653,
+            "username": "v*l****",
+            "gameType": "30815",
+            "highScore": "5400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277806011,
+            "username": "a*z****",
+            "gameType": "32578",
+            "highScore": "5400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32578_3?version=0"
+        },
+        {
+            "id": 1277467989,
+            "username": "3*2*a*n***",
+            "gameType": "33437",
+            "highScore": "5400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.33437_3?version=0"
+        },
+        {
+            "id": 1277789614,
+            "username": "a*j*n*e***",
+            "gameType": "12259",
+            "highScore": "5350.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277829237,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "5350.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277605816,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "5325.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277422234,
+            "username": "j*k*y****",
+            "gameType": "12259",
+            "highScore": "5205.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277139041,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "5190.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277371019,
+            "username": "p*s*w*r****",
+            "gameType": "12259",
+            "highScore": "5148.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277523962,
+            "username": "h*i*n****",
+            "gameType": "12259",
+            "highScore": "5132.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277464245,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "5120.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277586869,
+            "username": "b*b*r***",
+            "gameType": "30144",
+            "highScore": "5110.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277637283,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "5085.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277781321,
+            "username": "i*a*u***",
+            "gameType": "31699",
+            "highScore": "5052.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31699_3?version=0"
+        },
+        {
+            "id": 1277189408,
+            "username": "t*t***",
+            "gameType": "30815",
+            "highScore": "5040.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277053510,
+            "username": "c*m*r*a***",
+            "gameType": "30625",
+            "highScore": "5020.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30625_3?version=0"
+        },
+        {
+            "id": 1277285633,
+            "username": "r*a*l*p*t*n*2***",
+            "gameType": "30720",
+            "highScore": "5010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277451575,
+            "username": "e*w****",
+            "gameType": "30144",
+            "highScore": "5010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277262448,
+            "username": "s*m*l*j*y*2*4***",
+            "gameType": "30144",
+            "highScore": "5010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277575444,
+            "username": "b*b*r***",
+            "gameType": "30144",
+            "highScore": "5005.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277531917,
+            "username": "e*s*2****",
+            "gameType": "30144",
+            "highScore": "5001.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277060736,
+            "username": "m*t*m*g*3***",
+            "gameType": "30144",
+            "highScore": "5001.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277060739,
+            "username": "g*l****",
+            "gameType": "30144",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277271564,
+            "username": "s*m*n*h*h*t***",
+            "gameType": "30720",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277657251,
+            "username": "e*s*6****",
+            "gameType": "30144",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277711635,
+            "username": "i*u*a*h*n****",
+            "gameType": "30144",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277621730,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277288660,
+            "username": "m*r*e*c***",
+            "gameType": "30815",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277494387,
+            "username": "w*n*y*i*l****",
+            "gameType": "10457",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277637284,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277498974,
+            "username": "w*n*y*i*l****",
+            "gameType": "10457",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277646743,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277032131,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032138,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032139,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032152,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032133,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032147,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032128,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032141,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032135,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032129,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032142,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032155,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032136,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032130,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032150,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "5000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277708372,
+            "username": "b*b*c*k****",
+            "gameType": "12259",
+            "highScore": "4980.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277720527,
+            "username": "j*a****",
+            "gameType": "12259",
+            "highScore": "4977.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277114803,
+            "username": "0*3*1*9****",
+            "gameType": "30720",
+            "highScore": "4935.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277068770,
+            "username": "b*n*1***",
+            "gameType": "12259",
+            "highScore": "4909.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277616391,
+            "username": "j*a****",
+            "gameType": "12259",
+            "highScore": "4865.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277407539,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "4840.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040119,
+            "username": "m*7***",
+            "gameType": "30720",
+            "highScore": "4810.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277083536,
+            "username": "r*a*l*p*t*n*2***",
+            "gameType": "30720",
+            "highScore": "4805.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277236504,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "4800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277400500,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "4800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277265396,
+            "username": "v*l****",
+            "gameType": "30815",
+            "highScore": "4800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277756199,
+            "username": "e*y*0****",
+            "gameType": "30815",
+            "highScore": "4800.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277022134,
+            "username": "0*3*1***",
+            "gameType": "12259",
+            "highScore": "4775.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277422238,
+            "username": "j*k*0***",
+            "gameType": "12259",
+            "highScore": "4760.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277246490,
+            "username": "b*n*y*o****",
+            "gameType": "10965",
+            "highScore": "4752.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10965_3?version=0"
+        },
+        {
+            "id": 1277731333,
+            "username": "r*c*i*2***",
+            "gameType": "12259",
+            "highScore": "4748.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277359205,
+            "username": "f*a*k*y*e*p*j***",
+            "gameType": "12259",
+            "highScore": "4714.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277301673,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "4700.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277796013,
+            "username": "e*p*e*s*a*m*2***",
+            "gameType": "12259",
+            "highScore": "4700.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277428421,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "4660.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277806013,
+            "username": "r*d*l*a****",
+            "gameType": "12259",
+            "highScore": "4643.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277114799,
+            "username": "j*m****",
+            "gameType": "30640",
+            "highScore": "4640.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30640_3?version=0"
+        },
+        {
+            "id": 1277517062,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "4592.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277301670,
+            "username": "r*a*l*p*t*n*2***",
+            "gameType": "30720",
+            "highScore": "4577.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277731335,
+            "username": "b*b*c*k****",
+            "gameType": "31699",
+            "highScore": "4570.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31699_3?version=0"
+        },
+        {
+            "id": 1277022131,
+            "username": "r****",
+            "gameType": "31418",
+            "highScore": "4560.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31418_3?version=0"
+        },
+        {
+            "id": 1277494386,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4552.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277022130,
+            "username": "0*3*1*9****",
+            "gameType": "30720",
+            "highScore": "4545.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277268109,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4535.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277102334,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4530.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277032154,
+            "username": "b*l*n*l***",
+            "gameType": "30815",
+            "highScore": "4500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277083538,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "4500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277828348,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "4500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277828351,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "4500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277155905,
+            "username": "j*y*l***",
+            "gameType": "12259",
+            "highScore": "4480.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277476339,
+            "username": "0*2*1***",
+            "gameType": "12259",
+            "highScore": "4472.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277022135,
+            "username": "p*r***",
+            "gameType": "32449",
+            "highScore": "4465.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32449_3?version=0"
+        },
+        {
+            "id": 1277575446,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "4455.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277096114,
+            "username": "j*s*s***",
+            "gameType": "12259",
+            "highScore": "4440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277748379,
+            "username": "a*z****",
+            "gameType": "30720",
+            "highScore": "4440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277789613,
+            "username": "1*1*2*k*a*e***",
+            "gameType": "31483",
+            "highScore": "4435.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31483_3?version=0"
+        },
+        {
+            "id": 1277268108,
+            "username": "a*k*1***",
+            "gameType": "12259",
+            "highScore": "4430.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277536120,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4410.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277293913,
+            "username": "k*n*h*1***",
+            "gameType": "30815",
+            "highScore": "4400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277512103,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4375.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277476338,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "4352.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277210281,
+            "username": "n*t****",
+            "gameType": "12259",
+            "highScore": "4344.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277120333,
+            "username": "a*a***",
+            "gameType": "12259",
+            "highScore": "4340.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277566016,
+            "username": "m*k****",
+            "gameType": "12259",
+            "highScore": "4315.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277781319,
+            "username": "e*p*e*s*a*m*2***",
+            "gameType": "12259",
+            "highScore": "4315.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277047061,
+            "username": "0*0***",
+            "gameType": "30720",
+            "highScore": "4310.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277127045,
+            "username": "j*u*e*a***",
+            "gameType": "31230",
+            "highScore": "4306.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/CQ9/PlatformGameList.31230_3?version=0"
+        },
+        {
+            "id": 1277404104,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "4270.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277541028,
+            "username": "1*3*5***",
+            "gameType": "12259",
+            "highScore": "4230.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277821222,
+            "username": "l*c*y*e***",
+            "gameType": "12259",
+            "highScore": "4200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277646748,
+            "username": "j*a****",
+            "gameType": "12259",
+            "highScore": "4195.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277781316,
+            "username": "1*1*2*k*a*e***",
+            "gameType": "31483",
+            "highScore": "4185.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31483_3?version=0"
+        },
+        {
+            "id": 1277047058,
+            "username": "m*7***",
+            "gameType": "30720",
+            "highScore": "4180.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277032137,
+            "username": "r****",
+            "gameType": "31418",
+            "highScore": "4180.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31418_3?version=0"
+        },
+        {
+            "id": 1277189407,
+            "username": "s*g*r*o****",
+            "gameType": "30720",
+            "highScore": "4165.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277498975,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "4140.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277120332,
+            "username": "j*n*u*1***",
+            "gameType": "12259",
+            "highScore": "4136.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277536121,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4130.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277517065,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "4128.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277451574,
+            "username": "e*w****",
+            "gameType": "30144",
+            "highScore": "4100.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277032146,
+            "username": "s*m*l*j*y*2*4***",
+            "gameType": "12259",
+            "highScore": "4100.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277256654,
+            "username": "m*c*i****",
+            "gameType": "12259",
+            "highScore": "4092.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277512104,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "4084.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277489578,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4080.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277089505,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4080.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277239920,
+            "username": "m*j*y*e****",
+            "gameType": "5358",
+            "highScore": "4060.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5358_3?version=0"
+        },
+        {
+            "id": 1277424783,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "4060.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277288659,
+            "username": "w*l*i****",
+            "gameType": "12259",
+            "highScore": "4050.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277517064,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "4030.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277720529,
+            "username": "j*a****",
+            "gameType": "12259",
+            "highScore": "4015.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277293911,
+            "username": "d*d****",
+            "gameType": "32449",
+            "highScore": "4010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32449_3?version=0"
+        },
+        {
+            "id": 1277541027,
+            "username": "b*n*o*g****",
+            "gameType": "12125",
+            "highScore": "4010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.12125_3?version=0"
+        },
+        {
+            "id": 1277560856,
+            "username": "l*c*y*a*a***",
+            "gameType": "32578",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32578_3?version=0"
+        },
+        {
+            "id": 1277485056,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277646749,
+            "username": "1*8*s*r***",
+            "gameType": "5349",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5349_3?version=0"
+        },
+        {
+            "id": 1277199281,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277268110,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277206128,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277657254,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277293912,
+            "username": "m*r*e*c***",
+            "gameType": "30815",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277296597,
+            "username": "m*r*e*c***",
+            "gameType": "30815",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277387110,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277646747,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277637280,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277637281,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "4000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277407538,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "3992.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277731334,
+            "username": "l*b*t*g*b*n*c***",
+            "gameType": "30720",
+            "highScore": "3979.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277393667,
+            "username": "j*k*y****",
+            "gameType": "12259",
+            "highScore": "3964.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277646745,
+            "username": "w*l*n*c*s*o****",
+            "gameType": "12259",
+            "highScore": "3960.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277605815,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "3950.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277474934,
+            "username": "1*1****",
+            "gameType": "30952",
+            "highScore": "3937.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.30952_3?version=0"
+        },
+        {
+            "id": 1277400498,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3920.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127052,
+            "username": "c*m*r*a***",
+            "gameType": "12327",
+            "highScore": "3920.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12327_3?version=0"
+        },
+        {
+            "id": 1277498977,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "3920.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277422240,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3904.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277796012,
+            "username": "m*k****",
+            "gameType": "12259",
+            "highScore": "3885.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277108347,
+            "username": "x****",
+            "gameType": "30720",
+            "highScore": "3880.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277494384,
+            "username": "b*y*n***",
+            "gameType": "12259",
+            "highScore": "3874.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277503122,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "3870.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277335256,
+            "username": "d*a*n*m*r****",
+            "gameType": "31699",
+            "highScore": "3858.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31699_3?version=0"
+        },
+        {
+            "id": 1277321382,
+            "username": "j*n*l*a*a*i****",
+            "gameType": "12259",
+            "highScore": "3855.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277341142,
+            "username": "m*j*y*e****",
+            "gameType": "31593",
+            "highScore": "3844.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277806008,
+            "username": "l*v*p*n*a*3****",
+            "gameType": "12259",
+            "highScore": "3842.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277828349,
+            "username": "3*2*a*n***",
+            "gameType": "31593",
+            "highScore": "3840.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277293915,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3840.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277329037,
+            "username": "o*y***",
+            "gameType": "31253",
+            "highScore": "3835.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31253_3?version=0"
+        },
+        {
+            "id": 1277591255,
+            "username": "0*2***",
+            "gameType": "12259",
+            "highScore": "3820.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277134008,
+            "username": "r*a*n****",
+            "gameType": "30720",
+            "highScore": "3795.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277283096,
+            "username": "t*y*n*9*7***",
+            "gameType": "30720",
+            "highScore": "3780.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277781318,
+            "username": "a*z****",
+            "gameType": "12327",
+            "highScore": "3780.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12327_3?version=0"
+        },
+        {
+            "id": 1277249633,
+            "username": "v*l****",
+            "gameType": "30815",
+            "highScore": "3750.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277432248,
+            "username": "e*p*e*s*a*m*2***",
+            "gameType": "12259",
+            "highScore": "3730.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277134009,
+            "username": "k*a*g***",
+            "gameType": "30720",
+            "highScore": "3725.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277199285,
+            "username": "c*a*e****",
+            "gameType": "12259",
+            "highScore": "3698.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277214459,
+            "username": "m*j*y*e****",
+            "gameType": "5358",
+            "highScore": "3690.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5358_3?version=0"
+        },
+        {
+            "id": 1277616392,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "3690.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277531916,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3680.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277526285,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "3672.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277748380,
+            "username": "d*o****",
+            "gameType": "12259",
+            "highScore": "3668.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277821220,
+            "username": "r*t****",
+            "gameType": "31253",
+            "highScore": "3643.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31253_3?version=0"
+        },
+        {
+            "id": 1277214460,
+            "username": "b*r*e****",
+            "gameType": "12259",
+            "highScore": "3640.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277303297,
+            "username": "o*y***",
+            "gameType": "4835",
+            "highScore": "3630.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/CQ9/PlatformGameList.4835_3?version=0"
+        },
+        {
+            "id": 1277413451,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3603.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277127049,
+            "username": "e*a*a*a****",
+            "gameType": "12191",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12191_3?version=0"
+        },
+        {
+            "id": 1277344334,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277134006,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277199286,
+            "username": "t*t***",
+            "gameType": "30815",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277189409,
+            "username": "t*t***",
+            "gameType": "30815",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277265397,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277268107,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277818559,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277432250,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277821218,
+            "username": "1*9****",
+            "gameType": "31621",
+            "highScore": "3600.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31621_3?version=0"
+        },
+        {
+            "id": 1277199282,
+            "username": "g*t****",
+            "gameType": "12259",
+            "highScore": "3596.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277277089,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3580.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277144636,
+            "username": "m*l*1*3***",
+            "gameType": "12259",
+            "highScore": "3579.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277621731,
+            "username": "0*2*1***",
+            "gameType": "12259",
+            "highScore": "3558.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277821224,
+            "username": "m*y*h*n***",
+            "gameType": "12259",
+            "highScore": "3554.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277313095,
+            "username": "c*z****",
+            "gameType": "30720",
+            "highScore": "3547.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277218454,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3527.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277102335,
+            "username": "d*d****",
+            "gameType": "30720",
+            "highScore": "3500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277432249,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3500.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277708370,
+            "username": "1*3*l*o***",
+            "gameType": "12259",
+            "highScore": "3496.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277685408,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3480.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277127044,
+            "username": "z*n*i***",
+            "gameType": "3933",
+            "highScore": "3480.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.3933_3?version=0"
+        },
+        {
+            "id": 1277262449,
+            "username": "j*k*y****",
+            "gameType": "12259",
+            "highScore": "3480.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277571965,
+            "username": "0*2****",
+            "gameType": "12259",
+            "highScore": "3465.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040118,
+            "username": "m*a*2****",
+            "gameType": "12259",
+            "highScore": "3463.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277170698,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277428419,
+            "username": "a*l*n*e*u*m*n***",
+            "gameType": "12259",
+            "highScore": "3440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040116,
+            "username": "a*d*l*c*u***",
+            "gameType": "30815",
+            "highScore": "3440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277068772,
+            "username": "p*r***",
+            "gameType": "12259",
+            "highScore": "3440.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277806012,
+            "username": "m*k****",
+            "gameType": "12259",
+            "highScore": "3435.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277806016,
+            "username": "r*d***",
+            "gameType": "12259",
+            "highScore": "3420.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277034950,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "3410.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277114801,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3410.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277060738,
+            "username": "m*7***",
+            "gameType": "30720",
+            "highScore": "3400.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277127048,
+            "username": "0*0***",
+            "gameType": "30720",
+            "highScore": "3357.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277507884,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3330.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277605814,
+            "username": "j*n*y*0****",
+            "gameType": "30417",
+            "highScore": "3325.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277731332,
+            "username": "0*3*1*9****",
+            "gameType": "30720",
+            "highScore": "3320.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277474933,
+            "username": "3*2*a*n***",
+            "gameType": "33437",
+            "highScore": "3320.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.33437_3?version=0"
+        },
+        {
+            "id": 1277418038,
+            "username": "j*k*0***",
+            "gameType": "12259",
+            "highScore": "3308.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277265395,
+            "username": "l*b*t*g*b*n*c***",
+            "gameType": "30720",
+            "highScore": "3300.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277811484,
+            "username": "k*t*r*s***",
+            "gameType": "12259",
+            "highScore": "3280.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277288658,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "3280.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040114,
+            "username": "d*d****",
+            "gameType": "30720",
+            "highScore": "3273.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277389908,
+            "username": "p*s*w*r****",
+            "gameType": "12259",
+            "highScore": "3273.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277381936,
+            "username": "j*m****",
+            "gameType": "31593",
+            "highScore": "3270.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31593_3?version=0"
+        },
+        {
+            "id": 1277575445,
+            "username": "r*s*e****",
+            "gameType": "12259",
+            "highScore": "3256.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277387111,
+            "username": "p*s*w*r****",
+            "gameType": "12259",
+            "highScore": "3255.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277350306,
+            "username": "a*e***",
+            "gameType": "30720",
+            "highScore": "3234.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277083539,
+            "username": "s*m*l*j*y*2*4***",
+            "gameType": "12259",
+            "highScore": "3230.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277206129,
+            "username": "0*2****",
+            "gameType": "12259",
+            "highScore": "3220.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277517063,
+            "username": "b*a*d*p***",
+            "gameType": "12259",
+            "highScore": "3210.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277185836,
+            "username": "m*7***",
+            "gameType": "30720",
+            "highScore": "3205.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277422239,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "3200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277422237,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "3200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277400501,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277628355,
+            "username": "g*n*a*a***",
+            "gameType": "32842",
+            "highScore": "3200.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277053509,
+            "username": "j*n*i****",
+            "gameType": "30417",
+            "highScore": "3172.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30417_3?version=0"
+        },
+        {
+            "id": 1277127053,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3155.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277737519,
+            "username": "c*a*a*e*1***",
+            "gameType": "12259",
+            "highScore": "3132.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277756200,
+            "username": "b*n*l****",
+            "gameType": "12259",
+            "highScore": "3130.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277459729,
+            "username": "l*n*e*v*l***",
+            "gameType": "12259",
+            "highScore": "3124.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277083540,
+            "username": "d*d****",
+            "gameType": "30720",
+            "highScore": "3120.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277489577,
+            "username": "1*3*k*p****",
+            "gameType": "12259",
+            "highScore": "3108.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277291389,
+            "username": "r*a*l*p*t*n*2***",
+            "gameType": "30720",
+            "highScore": "3102.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277551622,
+            "username": "1*3*f*y****",
+            "gameType": "12259",
+            "highScore": "3090.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277422235,
+            "username": "j*k*0***",
+            "gameType": "12259",
+            "highScore": "3080.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277040115,
+            "username": "r****",
+            "gameType": "31418",
+            "highScore": "3080.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31418_3?version=0"
+        },
+        {
+            "id": 1277575443,
+            "username": "9*k***",
+            "gameType": "30720",
+            "highScore": "3076.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277032143,
+            "username": "b*y*n****",
+            "gameType": "30720",
+            "highScore": "3064.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277233010,
+            "username": "m*o***",
+            "gameType": "12259",
+            "highScore": "3063.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277304296,
+            "username": "s*e*l*s****",
+            "gameType": "12259",
+            "highScore": "3060.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277155906,
+            "username": "a*n*l***",
+            "gameType": "30720",
+            "highScore": "3055.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277708371,
+            "username": "c*z****",
+            "gameType": "30720",
+            "highScore": "3047.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277516661,
+            "username": "h*f*d*h****",
+            "gameType": "31902",
+            "highScore": "3030.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.31902_3?version=0"
+        },
+        {
+            "id": 1277022136,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3023.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277616394,
+            "username": "r*s*n****",
+            "gameType": "31418",
+            "highScore": "3020.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.31418_3?version=0"
+        },
+        {
+            "id": 1277185835,
+            "username": "b*s*e*1*1***",
+            "gameType": "12259",
+            "highScore": "3018.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277464246,
+            "username": "c*r*s*i*n****",
+            "gameType": "12259",
+            "highScore": "3018.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277022129,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3011.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277268106,
+            "username": "a*k*1***",
+            "gameType": "12259",
+            "highScore": "3010.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277155904,
+            "username": "z*n*i***",
+            "gameType": "12259",
+            "highScore": "3005.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.12259_3?version=0"
+        },
+        {
+            "id": 1277032151,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3002.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277271565,
+            "username": "o*y***",
+            "gameType": "5349",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.5349_3?version=0"
+        },
+        {
+            "id": 1277047063,
+            "username": "a*g*e*k****",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277646744,
+            "username": "f*a*c*s*l*a*2***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277397090,
+            "username": "1*6*z*i*y*l****",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277789616,
+            "username": "3*6*g*o***",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277331800,
+            "username": "1*6*z*i*y*l****",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277335255,
+            "username": "e*a*h****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277249634,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277313097,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277236505,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277226385,
+            "username": "l*n*e*o*l*r****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277781317,
+            "username": "3*6*g*o***",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277789617,
+            "username": "e*y*0****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277252891,
+            "username": "v*l****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277498976,
+            "username": "p*a*t*p*a***",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277560855,
+            "username": "k*s*b*o***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277600985,
+            "username": "f*a*c*s*l*a*2***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277685407,
+            "username": "f*a*c*s*l*a*2***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277600986,
+            "username": "f*a*c*s*l*a*2***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277829236,
+            "username": "k*m*e*0***",
+            "gameType": "30144",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30144_3?version=0"
+        },
+        {
+            "id": 1277307636,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277236503,
+            "username": "m*r***",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277344335,
+            "username": "m*n*o****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277586868,
+            "username": "l*u*e****",
+            "gameType": "30720",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30720_3?version=0"
+        },
+        {
+            "id": 1277328258,
+            "username": "f*b****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277628354,
+            "username": "g*n*a*a***",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277616390,
+            "username": "g*n*a*a***",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277628353,
+            "username": "g*n*a*a***",
+            "gameType": "32842",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.32842_3?version=0"
+        },
+        {
+            "id": 1277637282,
+            "username": "e*y*0****",
+            "gameType": "30815",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.30815_3?version=0"
+        },
+        {
+            "id": 1277821219,
+            "username": "3*2*a*n***",
+            "gameType": "33438",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JDB/PlatformGameList.33438_3?version=0"
+        },
+        {
+            "id": 1277120336,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277108349,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277439842,
+            "username": "1*1*0*b*y***",
+            "gameType": "10457",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10457_3?version=0"
+        },
+        {
+            "id": 1277032144,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032148,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        },
+        {
+            "id": 1277032149,
+            "username": "a*n*1***",
+            "gameType": "10461",
+            "highScore": "3000.000000",
+            "imgUrl": "https://download.ocms365.com/v2/common/JILI/PlatformGameList.10461_3?version=0"
+        }
+    ]
+}
