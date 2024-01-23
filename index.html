@@ -4,6 +4,8 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
         <style>
             html {
                 overflow-y: scroll;
@@ -18,11 +20,6 @@
                 position: absolute;
             }
 
-            body {
-                width: 100vw;
-                overflow: hidden;
-            }
-
             body,
             html {
                 font-size: 14px;
@@ -31,11 +28,19 @@
             }
 
             body {
+                width: calc(100vw - 9px);
+                height: calc((100vw - 9px) * 0.55);
+                overflow: hidden;
+                left: 4.5px;
                 position: relative;
-                min-height: 100%;
+                max-height: 600px;
                 font-family: Microsoft Yahei, Helvetica Neue, Helvetica, Arial, sans-serif;
                 line-height: 1.428571429;
-                color: #333;
+                color: #fafbfd;
+            }
+
+            .index-section {
+                height: 100%;
             }
 
             * {
@@ -52,18 +57,32 @@
             .index-goal .index-goal-content {
                 position: relative;
                 z-index: 1;
-                padding: 50px 150px;
+                padding: 0px calc(100vw * 0.058333);
                 color: #fff;
                 border-radius: 10px;
                 border-style: solid;
-                border-width: 8px;
-                border-image-source: linear-gradient(180deg, #fffade, #bd8355 10%, #82523b 27%, #fee185 51%, #b4784e 72%, #82523b 99%);
+                border-width: 0;
                 border-image-slice: 1;
                 background-image: -webkit-gradient(linear, left top, left bottom, from(#141414), color-stop(52%, #262525), color-stop(98%, #000)), -webkit-gradient(linear, left top, left bottom, from(#fffade), color-stop(10%, #bd8355), color-stop(27%, #82523b), color-stop(51%, #fee185), color-stop(72%, #b4784e), color-stop(99%, #82523b));
-                background-image: linear-gradient(180deg, #141414, #262525 52%, #000 98%), linear-gradient(180deg, #fffade, #bd8355 10%, #82523b 27%, #fee185 51%, #b4784e 72%, #82523b 99%);
+                background-image: linear-gradient(180deg, #9898d5, #7fa3cc 52%, #e9eff7 98%), linear-gradient(180deg, #fffade, #bd8355 10%, #82523b 27%, #fee185 51%, #b4784e 72%, #82523b 99%);
                 display: -webkit-box;
                 display: -ms-flexbox;
                 display: flex;
+            }
+
+            .index-goal-content::before {
+                content: "";
+                display: block;
+                background-size: cover;
+                background-image: url(/static/img/bg-slot4.webp);
+                height: 100%;
+                width: 100%;
+                opacity: 0.3;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
             }
 
             .index-ranking-wrapper {
@@ -168,7 +187,7 @@
 
             .index-ranking-wrapper .ranking-grid {
                 padding: 0;
-                margin: 170px 0 0 80px;
+                margin: 12vh 0 0 80px;
                 width: 80%;
                 position: relative;
             }
@@ -392,12 +411,12 @@
 
             .winner-list-wrapper .index-title span {
                 margin-left: 5px;
-                font-weight: 400;
+                font-weight: 700;
             }
 
             .winner-list-wrapper .win-news-width {
-                width: 110%;
-                margin-top: 110px;
+                width: 100%;
+                margin-top: 5vh;
                 overflow: hidden;
             }
 
@@ -473,7 +492,7 @@
             .winner-list-wrapper .winner-block .winner-article {
                 font-size: 16px;
                 line-height: 60px;
-                background: rgba(139, 138, 138, .2);
+                background: rgba(139, 138, 138, 0.459);
                 color: #999;
                 border-radius: 5px;
             }
@@ -514,7 +533,7 @@
                 padding: 5px;
                 border-top-left-radius: 5px;
                 border-bottom-left-radius: 5px;
-                background-color: #000;
+                background-color: #da1b1b;
             }
 
             .winner-list-wrapper .winner-block .winner-article .winner-grid>li:last-child .win-total {
@@ -525,9 +544,37 @@
                 background-color: #000;
             }
 
+            .FitLayout,
+            .FitLayout>div,
+            .index-goal,
+            .index-goal-border,
+            .index-goal-content,
+            .ranking-grid {
+                height: 100%;
+            }
 
+            .index-ranking-wrapper .win-news-width {
+                margin: 0 0 0 80px;
+            }
 
-            @media screen and (max-width:1024px) {
+            @media screen and (max-width:1250px) {
+                body {
+                    height: calc((100vw - 9px) * 0.7);
+                }
+            }
+
+            @media screen and (max-width:900px) {
+                .index-goal-content::before {
+                    background-image: none;
+                }
+
+                body {
+                    width: calc(100vw - 9px);
+                    height: inherit;
+                    max-height: none;
+                    min-height: 100%;
+                }
+
                 .index-goal {
                     padding: 0;
                 }
@@ -543,6 +590,12 @@
                 .index-goal .index-ranking-wrapper {
                     margin-top: 0;
                     width: 100%;
+                }
+
+                .index-ranking-wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
                 }
 
                 .index-goal .index-ranking-wrapper:before {
@@ -721,7 +774,7 @@
                 }
 
                 .index-goal .winner-list-wrapper .index-title {
-                    margin-bottom: 0;
+                    margin-bottom: 30px;
                     font-size: 5.3333333333vmin;
                     background-color: transparent;
                     line-height: 5.3333333333vmin;
@@ -759,8 +812,10 @@
                 .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid {
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
-                    -ms-flex-direction: column;
-                    flex-direction: column;
+                    /*-ms-flex-direction: column;*/
+                    /*flex-direction: column;*/
+                    min-height: 80px;
+                    align-items: center;
                 }
 
                 .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid>li {
@@ -770,19 +825,14 @@
                     width: 100%;
                     text-align: left;
                     font-size: 4.2666666667vmin;
+                }
+
+                li.win-prize {
+                    padding-left: 14vmin !important;
                 }
 
                 .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid>li span {
                     margin: 0;
-                }
-
-                .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid>li {
-                    display: block;
-                    padding-left: 18.6666666667vmin;
-                    padding-right: 0;
-                    width: 100%;
-                    text-align: left;
-                    font-size: 4.2666666667vmin;
                 }
 
                 .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid>li:last-child span:not(.win-total) {
@@ -794,7 +844,7 @@
                 }
 
                 .index-goal .winner-list-wrapper .winner-block .winner-article {
-                    padding: 1.5vmin 0;
+                    padding: 0.5vmin 0;
                     font-size: 3.7333333333vmin;
                     line-height: normal;
                     border-radius: 1vmin;
@@ -813,11 +863,22 @@
                 }
             }
 
+            @media screen and (max-width:800px) {
+                li.win-prize {
+                    padding-left: 7.5vmin !important;
+                }
+            }
+
             @media screen and (max-width:660px) {
+                .index-goal .index-goal-content {
+                    display: block;
+                    margin-bottom: 0;
+                    padding: 1vmin 1vmin 0;
+                    border-radius: 1.3333333333vmin;
+                    border-width: 1.3333333333vmin;
+                }
+
                 .index-goal .winner-list-wrapper .winner-block .winner-article {
-                    padding: 2.5vmin 0;
-                    font-size: 3.7333333333vmin;
-                    line-height: normal;
                     border-radius: 1vmin;
                 }
 
@@ -832,13 +893,18 @@
                     -webkit-transform: translateY(-50%);
                     transform: translateY(-50%);
                 }
+
+                li.win-prize {
+                    padding-left: 7vmin !important;
+                }
+
+                li.animate {
+                    padding: 0 5px !important;
+                }
             }
 
             @media screen and (max-width:576px) {
                 .index-goal .winner-list-wrapper .winner-block .winner-article {
-                    padding: 4vmin 0;
-                    font-size: 3.7333333333vmin;
-                    line-height: normal;
                     border-radius: 1.3333333333vmin;
                 }
 
@@ -852,14 +918,19 @@
                     background: none;
                     -webkit-transform: translateY(-50%);
                     transform: translateY(-50%);
+                }
+
+                li.win-prize {
+                    padding-left: 5vmin !important;
+                }
+
+                li.animate {
+                    padding: 0 5px !important;
                 }
             }
 
             @media screen and (max-width:430px) {
                 .index-goal .winner-list-wrapper .winner-block .winner-article {
-                    padding: 4.5333333333vmin 0;
-                    font-size: 3.7333333333vmin;
-                    line-height: normal;
                     border-radius: 1.3333333333vmin;
                 }
 
@@ -874,13 +945,25 @@
                     -webkit-transform: translateY(-50%);
                     transform: translateY(-50%);
                 }
+
+                li.animate {
+                    padding: 0 5px !important;
+                }
+            }
+
+            .snowflake {
+                position: absolute;
+                color: #fff;
+                opacity: 0.8;
+                user-select: none;
+                z-index: 1000;
             }
         </style>
     </head>
 
     <body>
         <div class="index-section" id="first-div">
-            <div data_vue_tag="FitLayout">
+            <div class="FitLayout">
                 <div>
                     <div class="index-goal">
                         <div class="index-goal-border">
@@ -937,7 +1020,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>c*m*r*a***</span>at<span title="COWBOYS">COWBOYS</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 5650.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 5650.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -952,7 +1035,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>0*2*1*8****</span>at<span title="Fortune Gems">Fortune Gems</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 7925.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 7925.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -967,7 +1050,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>c*m*r*a***</span>at<span title="COWBOYS">COWBOYS</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 7200.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 7200.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -982,7 +1065,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>m*a***</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 4862.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 4862.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -997,7 +1080,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 9660.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 9660.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1012,7 +1095,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>d*l*r*i***</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 3340.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 3340.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1027,7 +1110,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 3760.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 3760.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1042,7 +1125,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>v*a*i*i*y***</span>at<span title="Lucky Neko">Lucky Neko</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 4000.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 4000.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1057,7 +1140,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 6360.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 6360.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1072,7 +1155,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 3690.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 3690.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1087,7 +1170,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>0*5*2*8****</span>at<span title="Robin Hood">Robin Hood</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 5000.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 5000.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1102,7 +1185,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>j*o*n****</span>at<span title="SUPER ELEMENTS">SUPER ELEMENTS</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 10176.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 10176.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1117,7 +1200,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="SuperAce">SuperAce</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 26100.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 26100.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1132,7 +1215,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>a*z****</span>at<span title="SuperAce">SuperAce</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 17540.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 17540.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1147,7 +1230,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>j*r*c*x****</span>at<span title="Wild Bounty Showdown">Wild Bounty Showdown</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 5760.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 5760.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1162,7 +1245,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>0*2*1***</span>at<span title="Super Ace">Super Ace</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 4065.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 4065.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1177,7 +1260,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>v*a*i*i*y***</span>at<span title="Lucky Neko">Lucky Neko</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 3200.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 3200.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1192,7 +1275,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>v*a*i*i*y***</span>at<span title="Lucky Neko">Lucky Neko</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 4800.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 4800.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1207,7 +1290,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>f*a*c*s*l*a*2***</span>at<span title="Crazy777">Crazy777</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 3210.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 3210.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1222,7 +1305,7 @@
                                                             <div>
                                                                 <ul class="winner-grid">
                                                                     <li><span>v*a*i*i*y***</span>at<span title="Lucky Neko">Lucky Neko</span></li>
-                                                                    <li><span class="jackpot-win">won</span><span class="win-total">$ 4480.00</span></li>
+                                                                    <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ 4480.00</span></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -1240,13 +1323,30 @@
         </div>
     </body>
     <script>
+        var winListContainer, winListUl, n, winnerBlockHeight, totalWinners, currentIndex, newTransform;
+
+        let winScroll = function () {
+            currentIndex = (currentIndex - 1 + totalWinners) % totalWinners;
+            newTransform = -currentIndex * winnerBlockHeight + 35;
+
+            winListUl.style.transition = 'transform 1s ease-in-out';
+            winListUl.style.transform = 'translateY(' + newTransform + 'px)';
+
+
+            // Reset transition and transform when reaching the first winner
+            if (currentIndex === 0) {
+                setTimeout(function () {
+                    /*winListUl.style.transition = 'none';
+                    winListUl.style.transform = 'translateY(' + (-totalWinners + 1) * winnerBlockHeight + 'px)';
+                    console.log(winListUl.style.transform)*/
+                    currentIndex = totalWinners - 1;
+                }, 2000);
+            }
+        };
+
         // 輪播
         document.addEventListener('DOMContentLoaded', function () {
-            var winListContainer = document.querySelector('.win-news-scroll');
-            var winListUl = document.querySelector('.win-news-scroll ul');
-            
-            document.body.style.width = screen.width + "px";
-            var n = 1 // 每次滾動倍率
+            n = 1 // 每次滾動倍率
             if (screen.width < 768) {
                 n = 0.99  // for i14 pro max
             } else {
@@ -1254,31 +1354,26 @@
             }
             console.log(screen.width, n)
 
-            var winnerBlockHeight = winListUl.firstElementChild.offsetHeight * n;  
-            console.log(winnerBlockHeight)
+            winListContainer = document.querySelector('.win-news-scroll');
+            winListUl = document.querySelector('.win-news-scroll ul');
 
-            var totalWinners = winListUl.children.length;
-            winListUl.style.transform = 'translateY(' + (-totalWinners + 1) * winnerBlockHeight + 'px)';  // 初始位置
+            winnerBlockHeight = winListUl.firstElementChild.offsetHeight * n;
+
+            totalWinners = winListUl.children.length;
+
+            console.log("winnerBlockHeight", winnerBlockHeight, "totalWinners", totalWinners);
+
+            winListUl.style.transform = 'translateY(' + (totalWinners - 1) * winnerBlockHeight + 'px)';  // 初始位置
             console.log(winListUl.style.transform)
-            var currentIndex = 19;
+            currentIndex = totalWinners - 1;
 
+            winScroll();
             setInterval(function () {
-                currentIndex = (currentIndex - 1 + totalWinners) % totalWinners;
-                var newTransform = -currentIndex * winnerBlockHeight;
-
-                winListUl.style.transition = 'transform 1s ease-in-out';
-                winListUl.style.transform = 'translateY(' + newTransform + 'px)';
-
-                // Reset transition and transform when reaching the first winner
-                if (currentIndex === 0) {
-                    setTimeout(function () {
-                        winListUl.style.transition = 'none';
-                        winListUl.style.transform = 'translateY(' + (-totalWinners + 1) * winnerBlockHeight + 'px)';
-                        currentIndex = totalWinners - 1;
-                    }, 2000);
-                }
+                winScroll()
             }, 2000);
         });
+
+
     </script>
 
     <script>
@@ -1286,6 +1381,7 @@
         const moneyJsonFileList = [
             'money0',
             'money2',
+            'money4',
         ];
         const moneyjsonFileName = moneyJsonFileList[Math.floor(Math.random() * moneyJsonFileList.length)];
         const moneyjsonFilePath = `static/json/${moneyjsonFileName}.json`;
@@ -1320,7 +1416,7 @@
                                     <div>
                                         <ul class="winner-grid">
                                             <li><span>${entry.username}</span>at<span title="${entry.gameType}">${entry.gameType}</span></li>
-                                            <li><span class="jackpot-win">won</span><span class="win-total">$ ${parseFloat(entry.highScore).toFixed(2)}</span></li>
+                                            <li class="win-prize"><span class="jackpot-win">won</span><span class="win-total">$ ${parseFloat(entry.highScore).toFixed(2)}</span></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -1393,6 +1489,7 @@
         const creditJsonFileList = [
             'credit0',
             'credit2',
+            'credit4',
         ];
         const creditJsonFileName = creditJsonFileList[Math.floor(Math.random() * creditJsonFileList.length)];
         const creditjsonFilePath = `static/json/${creditJsonFileName}.json`;
@@ -1440,27 +1537,6 @@
         });
     </script>
 
-    <script>
-        let setIsWeb = function () {
-            // console.log(screen.width);
-
-            document.body.style.width = screen.width + "px";
-
-            if (screen.width < 768) {
-                document.getElementById("first-div").classList.add("mobile-app");
-            } else {
-                document.getElementById("first-div").classList.remove("mobile-app");
-            }
-        }
-
-        window.addEventListener("resize", (e) => {
-            setIsWeb();
-        })
-
-        document.addEventListener("DOMContentLoaded", () => {
-            setIsWeb();
-        })
-
-    </script>
+    <script src="/static/js/snowflakes.js"></script>
 
 </html>

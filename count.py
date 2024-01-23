@@ -4,28 +4,35 @@ from bs4 import BeautifulSoup as bf
 from pprint import pprint
 
 def count():
-    with open('static/json/money2.json', mode='r', encoding='utf-8') as f:
-        r = json.load(f)
+    moneys = [
+            'money0',
+            'money2',
+            'money4',
+        ]
+    for money in moneys:
+        print(money)
+        with open(f'static/json/{money}.json', mode='r', encoding='utf-8') as f:
+            r = json.load(f)
 
-    allGame = [d["gameType"] for d in r["data"]]
-   
-    print(len(allGame))
-    print(len(set(allGame)))
-    pprint(set(allGame))
+        allGame = [d["gameType"] for d in r["data"]]
+    
+        # print(len(allGame))
+        print(len(set(allGame)))
+        pprint(set(allGame))
 
 count()
 
 
 
 def get_data_credit():
-    # url = "https://www.jiliasia7.com/service/promotion/moneyRank/getDailyReport"
-    url = "https://www.jiliasia7.com/service/promotion/creditRank/getDailyReport"
+    url = "https://www.jiliasia7.com/service/promotion/moneyRank/getDailyReport"
+    # url = "https://www.jiliasia7.com/service/promotion/creditRank/getDailyReport"
 
     res = requests.post(url=url)
 
     print(res.status_code)
     if res.status_code == 200:
-        with open('static/json/credit1.json', mode='w', encoding='utf-8') as f:
+        with open('static/json/money3.json', mode='w', encoding='utf-8') as f:
             json.dump(res.json(), f, indent=4)
         print('ok')
     else:
@@ -37,7 +44,7 @@ def get_data_credit():
 
 
 def fit_data():
-    with open(f"static/json/money1.json" , mode='r', encoding='utf-8') as f:
+    with open(f"static/json/credit3.json" , mode='r', encoding='utf-8') as f:
         data = json.load(f)
 
     filtered_data = [
@@ -56,13 +63,42 @@ def fit_data():
         "data": filtered_data
     }
 
-    with open('static/json/money2.json', mode='w', encoding='utf-8') as w:
+    with open('static/json/credit4.json', mode='w', encoding='utf-8') as w:
         json.dump(res, w, ensure_ascii=False, indent=4)
 
     print("ok")
 
 # fit_data()
 
+
+def trans_data():
+    moneys = [
+            'money0',
+            'money2',
+            'money4',
+        ]
+    
+    with open("gameName.json" , mode='r', encoding='utf-8') as f2:
+            change = json.load(f2)
+    
+    for money in moneys:
+        print(money)
+        with open(f"static/json/{money}.json" , mode='r', encoding='utf-8') as f1:
+            data = json.load(f1)
+
+        
+        for i in data["data"]:
+            if i["gameType"] in list(change):
+                i["gameType"] = change[i["gameType"]]
+
+        
+
+        with open(f"static/json/{money}.json", mode='w', encoding='utf-8') as w:
+            json.dump(data, w, ensure_ascii=False, indent=4)
+
+        print("ok")
+
+# trans_data()
 
 
 '''

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style>
+            .widget-iframe {
+                width: 1250px;
+                height: 600px;
+                border: none;
+            }
+
+            @media screen and (max-width:1250px) {
+                .widget-iframe {
+                    width: calc(100vw - 9px);
+                    height: calc((100vw - 9px) * 0.7);
+                }
+            }
+
+            @media screen and (max-width:900px) {
+                .widget-iframe {
+                    width: calc(100vw - 9px);
+                    height: calc((100vw - 9px)*(21/9));
+                }
+            }
+        </style>
+    </head>
+
+    <body>
+        <iframe class="widget-iframe" src="http://localhost:3001/index.html" allow="fullscreen"></iframe>
+    </body>
+
+</html>
