@@ -1,0 +1,1040 @@
+html {
+  overflow-y: scroll;
+}
+
+:root {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+:root body {
+  position: absolute;
+}
+
+body,
+html {
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: calc(100vw - 9px);
+  height: calc((100vw - 9px) * 0.55);
+  overflow: hidden;
+  left: 4.5px;
+  position: relative;
+  max-height: 600px;
+  font-family: Microsoft Yahei, Helvetica Neue, Helvetica, Arial, sans-serif;
+  line-height: 1.428571429;
+  color: #fafbfd;
+}
+
+.index-section {
+  height: 100%;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.index-goal {
+  position: relative;
+  padding: 0;
+}
+
+.index-goal .index-goal-content {
+  position: relative;
+  z-index: 1;
+  padding: 0px calc(100vw * 0.058333);
+  color: #fff;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 0;
+  border-image-slice: 1;
+  background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(#141414),
+      color-stop(52%, #262525),
+      color-stop(98%, #000)
+    ),
+    -webkit-gradient(linear, left top, left bottom, from(#fffade), color-stop(10%, #bd8355), color-stop(27%, #82523b), color-stop(51%, #fee185), color-stop(72%, #b4784e), color-stop(99%, #82523b));
+  background-image: linear-gradient(180deg, #9898d5, #7fa3cc 52%, #e9eff7 98%),
+    linear-gradient(
+      180deg,
+      #fffade,
+      #bd8355 10%,
+      #82523b 27%,
+      #fee185 51%,
+      #b4784e 72%,
+      #82523b 99%
+    );
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.index-goal-content::before {
+  content: "";
+  display: block;
+  background-size: cover;
+  background-image: url(/static/img/bg-slot4.webp);
+  height: 100%;
+  width: 100%;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.index-ranking-wrapper {
+  margin: 50px auto 0;
+  position: relative;
+  width: 50%;
+}
+
+:after,
+:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.index-ranking-wrapper:before {
+  content: "";
+  width: 220px;
+  height: 160px;
+  background-image: url(https://download.ocms365.com/v3/jla/mem/img/today-icon_6c0ab17.png);
+  background-size: contain;
+  z-index: 2;
+  position: absolute;
+  top: -56px;
+  right: -110px;
+  background-repeat: no-repeat;
+}
+
+.index-ranking-wrapper .today-icon {
+  width: 100%;
+  line-height: 70px;
+  margin: auto;
+  text-align: center;
+  background-color: #a6180a;
+  position: relative;
+  -webkit-clip-path: polygon(0 0, 100% 1%, 100% 100%, 21% 100%);
+  clip-path: polygon(0 0, 100% 1%, 100% 100%, 21% 100%);
+}
+
+.web_view {
+  display: block;
+}
+
+.index-ranking-wrapper .today-icon p {
+  margin-bottom: 5px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.mob_view {
+  display: none;
+}
+
+.index-section img {
+  width: 100%;
+}
+
+img {
+  vertical-align: middle;
+}
+
+button,
+img,
+input,
+select,
+textarea {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+.index-ranking-wrapper .today-icon p {
+  margin-bottom: 5px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+p {
+  margin: 0 0 10px;
+}
+
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+.index-section ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  *zoom: 1;
+}
+
+.index-ranking-wrapper .ranking-grid {
+  padding: 0;
+  margin: 12vh 0 0 80px;
+  width: 80%;
+  position: relative;
+}
+
+.index-section ul:after,
+.index-section ul:before {
+  content: " ";
+  display: table;
+}
+
+.index-ranking-wrapper .ranking-grid > li {
+  position: relative;
+  margin-bottom: 110px;
+}
+
+.index-ranking-wrapper .ranking-grid > li.dragon {
+  border-radius: 5px;
+  background-color: rgba(186, 6, 97, 0.7);
+}
+
+.index-ranking-wrapper .ranking-grid > li .ranking-img {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: -8px;
+  z-index: 1;
+  border-radius: 50%;
+  left: -65px;
+}
+
+.index-ranking-wrapper .ranking-grid > li .ranking-img:before {
+  width: 150px;
+  height: 150px;
+  content: "";
+  position: absolute;
+  background-image: url(https://download.ocms365.com/v3/jla/mem/img/trophy_0536cb7.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  left: -60px;
+  top: -40px;
+}
+
+.index-goal .index-goal-content .game-img,
+.index-goal .index-goal-content .no-img {
+  position: relative;
+}
+
+.index-goal .index-goal-content .game-img,
+.index-goal .index-goal-content .no-img {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: #000;
+}
+
+.index-ranking-wrapper .ranking-grid > li.dragon .game-img {
+  border: 5px solid #d12;
+  -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+}
+
+.index-section img {
+  width: 100%;
+}
+
+.index-goal .index-goal-content .game-img img,
+.index-goal .index-goal-content .no-img img {
+  position: absolute;
+  left: -100%;
+  right: -100%;
+  margin: auto;
+  max-width: none;
+  height: 100%;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul {
+  position: relative;
+  border-radius: 5px;
+}
+
+.index-ranking-wrapper .ranking-grid > li.dragon ul {
+  margin-left: 50px;
+  padding-left: 20px;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li {
+  position: relative;
+  z-index: 1;
+  padding: 15px 0;
+  color: #fff;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li.winner {
+  *zoom: 1;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li.winner:after,
+.index-ranking-wrapper .ranking-grid > li ul li.winner:before {
+  content: " ";
+  display: table;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li.winner .player {
+  font-weight: 600;
+  color: #ffd347;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li.winner .score {
+  color: #fff;
+}
+
+.index-ranking-wrapper .ranking-grid > li ul li.winner:after {
+  clear: both;
+}
+
+.index-ranking-wrapper .ranking-grid > li.dragon ul .ranking-winner-img {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  background-image: url(https://download.ocms365.com/v3/jla/mem/img/dragon_4d35b4f.png);
+  background-size: contain;
+  right: 0;
+}
+
+.index-section ul:after,
+.index-section ul:before {
+  content: " ";
+  display: table;
+}
+
+.index-section ul:after {
+  clear: both;
+}
+
+.index-ranking-wrapper .ranking-grid > li {
+  position: relative;
+  margin-bottom: 110px;
+}
+
+.index-ranking-wrapper .ranking-grid > li.tiger {
+  border-radius: 5px;
+  background-color: #0d56ba;
+}
+
+.index-ranking-wrapper .ranking-grid > li .ranking-img {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: -8px;
+  z-index: 1;
+  border-radius: 50%;
+  left: -65px;
+}
+
+.index-ranking-wrapper .ranking-grid > li.tiger .game-img {
+  border: 5px solid #09f;
+  -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5),
+    inset 0 1px 2px 0 rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+}
+
+.index-ranking-wrapper .ranking-grid > li.tiger ul {
+  margin-left: 50px;
+  padding-left: 20px;
+}
+
+.index-ranking-wrapper .ranking-grid > li.tiger ul .ranking-winner-img {
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  background-image: url(https://download.ocms365.com/v3/jla/mem/img/tiger_452400a.png);
+  background-size: contain;
+  right: 0;
+}
+
+.winner-list-wrapper {
+  margin: 50px auto 0;
+  position: relative;
+  z-index: 1;
+  width: 50%;
+}
+
+.index-title {
+  position: relative;
+  z-index: 1;
+  padding: 0 30px;
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  color: #8d8a8a;
+  border: 0;
+  line-height: 35px;
+  background: none;
+}
+
+.winner-list-wrapper .index-title {
+  margin-bottom: 5px;
+  font-size: 30px;
+  line-height: 70px;
+  height: 70px;
+  color: #fff;
+  padding: 0;
+  background-color: rgba(232, 190, 22, 0.99);
+  -webkit-clip-path: polygon(0 0, 100% 1%, 81% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 1%, 81% 100%, 0 100%);
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+.winner-list-wrapper .index-title span {
+  margin-left: 5px;
+  font-weight: 700;
+}
+
+.winner-list-wrapper .win-news-width {
+  width: 100%;
+  margin-top: 5vh;
+  overflow: hidden;
+}
+
+.winner-list-wrapper .win-news-scroll {
+  margin-top: -5px;
+}
+
+.winner-list-wrapper .win-news-scroll > ul {
+  position: relative;
+  height: 420px;
+  left: 40px;
+}
+
+.animate {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.winner-list-wrapper .win-news-scroll > ul > li {
+  *zoom: 1;
+  padding-top: 6px;
+}
+
+.winner-list-wrapper .win-news-scroll > ul > li:after,
+.winner-list-wrapper .win-news-scroll > ul > li:before {
+  content: " ";
+  display: table;
+}
+
+.winner-list-wrapper .winner-block {
+  position: relative;
+  padding: 5px 0;
+  margin-top: 20px;
+}
+
+.winner-list-wrapper .winner-block .winner-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(
+    135deg,
+    #f2cb75,
+    #f3b044 43%,
+    #e17f3b 52%,
+    #c49303
+  );
+  position: absolute;
+  left: -15px;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  margin: auto;
+  padding: 6px;
+}
+
+.winner-list-wrapper .winner-block .winner-img .game-img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: linear-gradient(315deg, #fff, #fff 50%, #aac6c8 0, #314f53 0);
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  z-index: 2;
+}
+
+.index-goal .index-goal-content .game-img img,
+.index-goal .index-goal-content .no-img img {
+  position: absolute;
+  left: -100%;
+  right: -100%;
+  margin: auto;
+  max-width: none;
+  height: 100%;
+}
+
+.winner-list-wrapper .winner-block .winner-article {
+  font-size: 16px;
+  line-height: 60px;
+  background: rgba(139, 138, 138, 0.459);
+  color: #999;
+  border-radius: 5px;
+}
+
+.winner-list-wrapper .winner-block .winner-article .winner-grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.winner-list-wrapper .winner-block .winner-article .winner-grid > li {
+  overflow: hidden;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: top;
+  padding-left: 0;
+}
+
+.winner-list-wrapper
+  .winner-block
+  .winner-article
+  .winner-grid
+  > li:first-child {
+  padding-left: 70px;
+}
+
+.winner-list-wrapper
+  .winner-block
+  .winner-article
+  .winner-grid
+  > li:first-child:first-child {
+  color: #fff;
+}
+
+.winner-list-wrapper .winner-block .winner-article .winner-grid > li span {
+  color: #fff;
+}
+
+.winner-list-wrapper
+  .winner-block
+  .winner-article
+  .winner-grid
+  > li:first-child
+  span {
+  padding: 0 5px;
+}
+
+.winner-list-wrapper
+  .winner-block
+  .winner-article
+  .winner-grid
+  > li:last-child
+  .jackpot-win {
+  margin-left: 5px;
+  padding: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background-color: #da1b1b;
+}
+
+.winner-list-wrapper
+  .winner-block
+  .winner-article
+  .winner-grid
+  > li:last-child
+  .win-total {
+  color: #ff0;
+  padding: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  background-color: #000;
+}
+
+.FitLayout,
+.FitLayout > div,
+.index-goal,
+.index-goal-border,
+.index-goal-content,
+.ranking-grid {
+  height: 100%;
+}
+
+.index-ranking-wrapper .win-news-width {
+  margin: 0 0 0 80px;
+}
+
+@media screen and (max-width: 1250px) {
+  body {
+    height: calc((100vw - 9px) * 0.7);
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .index-goal-content::before {
+    background-image: none;
+  }
+
+  body {
+    width: calc(100vw - 9px);
+    height: inherit;
+    max-height: none;
+    min-height: 100%;
+  }
+
+  .index-goal {
+    padding: 0;
+  }
+
+  .index-goal .index-goal-content {
+    display: block;
+    margin-bottom: 0;
+    padding: 2.6666666667vmin 2.6666666667vmin 0;
+    border-radius: 1.3333333333vmin;
+    border-width: 1.3333333333vmin;
+  }
+
+  .index-goal .index-ranking-wrapper {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .index-ranking-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .index-goal .index-ranking-wrapper:before {
+    background-image: none;
+  }
+
+  .index-goal .index-ranking-wrapper .today-icon {
+    position: relative;
+    top: 0;
+    margin-bottom: 8vmin;
+    width: 48vmin;
+    height: auto;
+    -webkit-clip-path: none;
+    clip-path: none;
+    background-color: transparent;
+  }
+
+  .web_view {
+    display: none !important;
+  }
+
+  .index-goal .index-ranking-wrapper .today-icon p {
+    font-size: 5.3333333333vmin;
+    margin-top: 0;
+    line-height: 20px;
+  }
+
+  .mob_view {
+    display: block !important;
+  }
+
+  .index-goal .index-ranking-wrapper .today-icon p {
+    font-size: 5.3333333333vmin;
+    margin-top: 0;
+    line-height: 20px;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid {
+    padding: 0;
+    margin: auto 0 0 16vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li {
+    padding: 0;
+    width: 100%;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon {
+    margin-bottom: 14.6666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img {
+    width: 18.6666666667vmin;
+    height: 18.6666666667vmin;
+    left: 0;
+    top: 0;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img:before {
+    width: 21.3333333333vmin;
+    height: 25.0666666667vmin;
+    left: -16.8vmin;
+    top: -5.0666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img .game-img,
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img .no-img {
+    left: -8vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 18.6666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li ul li {
+    padding: 0;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner {
+    padding-top: 4vmin;
+    line-height: 5.8666666667vmin;
+    padding-left: 16vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner {
+    text-align: left;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner .player,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner .score,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner .player,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner .score {
+    font-size: 4.2666666667vmin;
+  }
+
+  .index-goal
+    .index-ranking-wrapper
+    .ranking-grid
+    > li.dragon
+    .ranking-winner-img,
+  .index-goal
+    .index-ranking-wrapper
+    .ranking-grid
+    > li.tiger
+    .ranking-winner-img {
+    width: 17.8666666667vmin;
+    height: 17.8666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li {
+    padding: 0;
+    width: 100%;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger {
+    margin-bottom: 14.6666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img {
+    width: 18.6666666667vmin;
+    height: 18.6666666667vmin;
+    left: 0;
+    top: 0;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img:before {
+    width: 21.3333333333vmin;
+    height: 25.0666666667vmin;
+    left: -16.8vmin;
+    top: -5.0666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img .game-img,
+  .index-goal .index-ranking-wrapper .ranking-grid > li .ranking-img .no-img {
+    left: -8vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 18.6666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li ul li {
+    padding: 0;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner {
+    padding-top: 4vmin;
+    line-height: 5.8666666667vmin;
+    padding-left: 16vmin;
+  }
+
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner .player,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.dragon .winner .score,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner .player,
+  .index-goal .index-ranking-wrapper .ranking-grid > li.tiger .winner .score {
+    font-size: 4.2666666667vmin;
+  }
+
+  .index-goal
+    .index-ranking-wrapper
+    .ranking-grid
+    > li.dragon
+    .ranking-winner-img,
+  .index-goal
+    .index-ranking-wrapper
+    .ranking-grid
+    > li.tiger
+    .ranking-winner-img {
+    width: 17.8666666667vmin;
+    height: 17.8666666667vmin;
+  }
+
+  .index-goal .index-ranking-wrapper:after {
+    left: 0;
+    right: 0;
+    bottom: -0.8vmin;
+    height: 0.8vmin;
+  }
+
+  .index-goal .winner-list-wrapper {
+    width: 100%;
+    padding-bottom: 13.3333333333vmin;
+    margin-top: 0;
+  }
+
+  .index-goal .winner-list-wrapper .index-title {
+    margin-bottom: 30px;
+    font-size: 5.3333333333vmin;
+    background-color: transparent;
+    line-height: 5.3333333333vmin;
+    height: 5.3333333333vmin;
+  }
+
+  .index-goal .winner-list-wrapper .index-title span {
+    margin-left: 1.3333333333vmin;
+  }
+
+  .index-goal .winner-list-wrapper .win-news-width {
+    margin-top: 0;
+    width: 100%;
+  }
+
+  .index-goal .winner-list-wrapper .win-news-scroll {
+    margin-top: -10px;
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .index-goal .winner-list-wrapper .win-news-scroll > ul {
+    height: 106.6666666667vmin;
+    left: 0;
+  }
+
+  .index-goal .winner-list-wrapper .win-news-scroll > ul > li {
+    padding-top: 0;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block {
+    padding: 0;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-article .winner-grid {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    /*-ms-flex-direction: column;*/
+    /*flex-direction: column;*/
+    min-height: 80px;
+    align-items: center;
+  }
+
+  .index-goal
+    .winner-list-wrapper
+    .winner-block
+    .winner-article
+    .winner-grid
+    > li {
+    display: block;
+    padding-left: 18.6666666667vmin;
+    padding-right: 0;
+    width: 100%;
+    text-align: left;
+    font-size: 4.2666666667vmin;
+  }
+
+  li.win-prize {
+    padding-left: 14vmin !important;
+  }
+
+  .index-goal
+    .winner-list-wrapper
+    .winner-block
+    .winner-article
+    .winner-grid
+    > li
+    span {
+    margin: 0;
+  }
+
+  .index-goal
+    .winner-list-wrapper
+    .winner-block
+    .winner-article
+    .winner-grid
+    > li:last-child
+    span:not(.win-total) {
+    margin: 0;
+  }
+
+  .index-goal
+    .winner-list-wrapper
+    .winner-block
+    .winner-article
+    .winner-grid
+    > li
+    span {
+    margin: 0;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-article {
+    padding: 0.5vmin 0;
+    font-size: 3.7333333333vmin;
+    line-height: normal;
+    border-radius: 1vmin;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-img {
+    width: 10 vmin;
+    height: 10vmin;
+    top: 50%;
+    left: 2.6666666667vmin;
+    margin: 0;
+    padding: 0;
+    background: none;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+}
+
+@media screen and (max-width: 800px) {
+  li.win-prize {
+    padding-left: 7.5vmin !important;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .index-goal .index-goal-content {
+    display: block;
+    margin-bottom: 0;
+    padding: 1vmin 1vmin 0;
+    border-radius: 1.3333333333vmin;
+    border-width: 1.3333333333vmin;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-article {
+    border-radius: 1vmin;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-img {
+    width: 11vmin;
+    height: 11vmin;
+    top: 50%;
+    left: 2.6666666667vmin;
+    margin: 0;
+    padding: 0;
+    background: none;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  li.win-prize {
+    padding-left: 7vmin !important;
+  }
+
+  li.animate {
+    padding: 0 5px !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .index-goal .winner-list-wrapper .winner-block .winner-article {
+    border-radius: 1.3333333333vmin;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-img {
+    width: 13.3333333333vmin;
+    height: 13.3333333333vmin;
+    top: 50%;
+    left: 2.6666666667vmin;
+    margin: 0;
+    padding: 0;
+    background: none;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  li.win-prize {
+    padding-left: 5vmin !important;
+  }
+
+  li.animate {
+    padding: 0 5px !important;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .index-goal .winner-list-wrapper .winner-block .winner-article {
+    border-radius: 1.3333333333vmin;
+  }
+
+  .index-goal .winner-list-wrapper .winner-block .winner-img {
+    width: 13.3333333333vmin;
+    height: 13.3333333333vmin;
+    top: 50%;
+    left: 2.6666666667vmin;
+    margin: 0;
+    padding: 0;
+    background: none;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  li.animate {
+    padding: 0 5px !important;
+  }
+}
+
+.snowflake {
+  position: absolute;
+  color: #fff;
+  opacity: 0.8;
+  user-select: none;
+  z-index: 1000;
+}

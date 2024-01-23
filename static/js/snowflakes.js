@@ -6,26 +6,32 @@ function randomBetween(min, max) {
 // Create snowflakes
 function createSnowflake() {
     const snowFlake = document.createElement('div');
+    snowFlake.innerHTML = '&#10052;';
     snowFlake.classList.add('snowflake');
-    snowFlake.textContent = '❄';
-    snowFlake.classList.add('fas');
-    snowFlake.classList.add('fa-snowflake');
+    // snowFlake.classList.add('fas');
+    // snowFlake.classList.add('fa-snowflake');
 
     // Randomize the size and speed of the snowflakes
     const snowFlakeSize = randomBetween(10, 20); // Size between 10px and 20px
     const snowFlakeSpeed = randomBetween(5, 8); // Animation duration between 3s and 6s
-    const startPositionX = randomBetween(0, window.innerWidth); // Horizontal start position
+    const startPositionX = randomBetween(0, window.innerWidth); // Horizontal start position.
+    const endPositionX = startPositionX + randomBetween(-150, 150);
     const startPositionY = randomBetween(-100, -30); // Vertical start position above the viewport
 
     snowFlake.style.fontSize = `${snowFlakeSize}px`; // Set size
+    snowFlake.style.opacity = randomBetween(0.5, 0.9);
     snowFlake.style.left = `${startPositionX}px`; // Set starting horizontal position
     snowFlake.style.top = `${startPositionY}px`; // Set starting vertical position
 
     // Set the CSS properties for animation
-    snowFlake.style.animationName = 'fall';
-    snowFlake.style.animationDuration = `${snowFlakeSpeed}s`; // Set falling speed
-    snowFlake.style.animationTimingFunction = 'linear';
-    snowFlake.style.animationIterationCount = 'infinite';
+    snowFlake.animate([
+        { transform: `translate(0, -${snowFlakeSize}px)`, opacity: 1 },
+        { transform: `translate(${endPositionX - startPositionX}px, 110vh)`, opacity: 0.5 }
+    ], {
+        duration: snowFlakeSpeed * 1000,
+        easing: 'linear',
+        iterations: 1
+    });
 
     // Add the snowflake to the body
     document.body.appendChild(snowFlake);
@@ -36,12 +42,13 @@ function createSnowflake() {
     }, snowFlakeSpeed * 1000);
 }
 
-// Create multiple snowflakes
+// Function to start generating snowflakes
 function createSnowflakes() {
-    const numberOfSnowflakes = 50; // Adjust this for more or fewer snowflakes
-    for (let i = 0; i < numberOfSnowflakes; i++) {
-        setTimeout(createSnowflake, i * 250); // Delay each new snowflake
-    }
+    const numberOfSnowflakes = 50; // Adjust the number of snowflakes here
+
+    setInterval(() => {
+        createSnowflake();
+    }, 200); // Adjust the rate of snowflake creation
 }
 
 // Snowflake fall animation
@@ -57,4 +64,3 @@ document.head.appendChild(styleSheet);
 
 // Start creating snowflakes
 createSnowflakes();
-setInterval(createSnowflakes, 5000); // Create new snowflakes every 5 seconds to keep the effect going
